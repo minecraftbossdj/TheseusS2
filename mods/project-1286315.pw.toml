@@ -1,0 +1,13 @@
+name = "project-1286315"
+filename = "c3me-forge-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fa56d635562eeb25b4b9c310c3f9572075530f4d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6649115
+project-id = 1286315

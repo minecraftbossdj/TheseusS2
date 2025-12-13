@@ -1,0 +1,13 @@
+name = "Create: Missions"
+filename = "missions-forge-0.4.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7e45ba58b3aeebe6a7b9edb87da571aafcd9e304"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6904546
+project-id = 911382
