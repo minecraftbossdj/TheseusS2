@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "fancymenu_data/last_world.fmdata"
+hash = "c438a78d61ec729deb7fa4ee41efd3a395eda03bcd0e0592a573013b92012931"
+
+[[files]]
 file = "mods/Axiom-5.1.1-for-MC1.20.1.jar"
 hash = "df3dd0abb4f231a9182c18b7e018a45f1a8ca6a0d3b85fc9dbea3fb2004a1a4b"
 

@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = /run/media/riley/Sigma linux/prism/instances/Theseus S2/minecraft/saves/SEX_
+}
+
