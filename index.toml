@@ -5,6 +5,14 @@ file = "fancymenu_data/last_world.fmdata"
 hash = "c438a78d61ec729deb7fa4ee41efd3a395eda03bcd0e0592a573013b92012931"
 
 [[files]]
+file = "gitattributes"
+hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
+
+[[files]]
+file = "gitignore"
+hash = "a5d5096df343dd768bc8df9643d68126c5e9e6d023e7a5434460f9844a2a75ed"
+
+[[files]]
 file = "mods/Axiom-5.1.1-for-MC1.20.1.jar"
 hash = "df3dd0abb4f231a9182c18b7e018a45f1a8ca6a0d3b85fc9dbea3fb2004a1a4b"
 
@@ -63,6 +71,10 @@ metafile = true
 file = "mods/barnyard-computers.pw.toml"
 hash = "05cc8c47c0f362109f54fb981a3a0b383e71763fb4c222d34e735abe1e4f29ad"
 metafile = true
+
+[[files]]
+file = "mods/bits_n_bobs-0.0.18-1.20.1-preview.jar"
+hash = "6e4f4ad50b0d8be6c3f67b34516c92f041d97c9056fedab8e69c09076235c3b7"
 
 [[files]]
 file = "mods/caelus-forge-3.1.0+1.20.jar"
@@ -165,6 +177,11 @@ hash = "83624c4153ddca1ee7cf6ae924d8e1688c4b92d225557f83bc6734a2e480f460"
 metafile = true
 
 [[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "aea24bc376b53b12d049633a2be9a9911fb6984e189940e804e74bc9fcf921a0"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "200b30b8eeaaf2fa9e8345fcabdd80f6195b5af67926fb1e277931100e7e1eff"
 metafile = true
@@ -195,8 +212,18 @@ hash = "123f39fa64cda16f36cb6da7b547e49c482baf6a79f7b7f87b4004d21dd059b5"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "0971029a9e6cbc93c8fd694f97942c566979973f3d98023b730b1d436f617220"
+metafile = true
+
+[[files]]
 file = "mods/create-tweaked-controllers.pw.toml"
 hash = "91354129d4adaf2982fbf6d975331067ad39a6e408de32383ea8ff65a3c71e7a"
+metafile = true
+
+[[files]]
+file = "mods/create-vintage-unofficial-port.pw.toml"
+hash = "7b71889ef3828b2b1c14b012a172c328575da9c99e25cea3b908db3e22e35578"
 metafile = true
 
 [[files]]
@@ -275,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling-forge-1.9.3-mc1.20.1.jar"
 hash = "c0160d378f5f00da72e7235a62caa615a5274a2346541101311b24442366ab71"
+
+[[files]]
+file = "mods/essential-mod.pw.toml"
+hash = "80ea95568836a40a19316f8cbbcca1615d7a1eafb197bfd694537a865fc6e848"
+metafile = true
 
 [[files]]
 file = "mods/eureka-ships.pw.toml"
