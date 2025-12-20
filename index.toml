@@ -86,6 +86,11 @@ hash = "c652306fdcbb41d5acb22b625217b0ab31e4d8e36d61411ba74008c829046d11"
 metafile = true
 
 [[files]]
+file = "mods/casinocraft.pw.toml"
+hash = "c36681779db37e0a49a0747c167bfc7cb869b0c796c135252a2368019f7a0fc0"
+metafile = true
+
+[[files]]
 file = "mods/cc-vs.pw.toml"
 hash = "e17fd2b3a6643d47fb22647f0d6cb138f59c40af5bacda77ddc1f45d7d63d3a1"
 metafile = true
