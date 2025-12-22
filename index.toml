@@ -5,6 +5,90 @@ file = "config/alexscaves-client.toml"
 hash = "d5fa40c6b5a871b364019279108d199199a14a526efec71e1a89cc874d1569f2"
 
 [[files]]
+file = "config/fancymenu/assets/minecraft.png"
+hash = "0197396211bc047b66ed77973ccb0f1420cfc95e4d6228f0a4abf79c2462cb2b"
+
+[[files]]
+file = "config/fancymenu/assets/splashtext.txt"
+hash = "24b2facdcda8c2e02e59b2b616687afc07d1f2a9bf2babd006ab62916e1aec6f"
+
+[[files]]
+file = "config/fancymenu/assets/turt16.png"
+hash = "c56fece5926b4bd9ffa32dc553e9caf12ce0f34dc3884ad57102da69817bc373"
+
+[[files]]
+file = "config/fancymenu/assets/turt32.png"
+hash = "f889acc748d11e389be5cd2ef8163390b03a0fe4d0848780ddac8f2ce0c752d3"
+
+[[files]]
+file = "config/fancymenu/assets/turtmac.icns"
+hash = "48cfcaaeaee2b9bc6034452ce56954e9eda4926ae38b2b8650375f918676784f"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "224b94511e5ca29013c009ddade706ae5d17220efa837a1c279f63c6660131d2"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "d4e66bc22fcfa56158ca7100017623c71b1437fb4722229b6e064e0a48a5f5de"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "19a3a2f646f8e0ac277fccd39fdb9c5922f941d6765a157df9a79c73eea0c198"
+
+[[files]]
+file = "config/fancymenu/panoramas/theseuspanorama/panorama/panorama_0.png"
+hash = "ac534c596d0254e73aa4542a490f5a8d3d5d63f800706e866b25ad9278fe74f6"
+
+[[files]]
+file = "config/fancymenu/panoramas/theseuspanorama/panorama/panorama_1.png"
+hash = "712cc070a511cc1f454aff8cd2e5b5368893e5b8fa90eb0982cbc1dd890c67ce"
+
+[[files]]
+file = "config/fancymenu/panoramas/theseuspanorama/panorama/panorama_2.png"
+hash = "dc91f4fc7f9f2610182916f07c5d56d3c6196d2600e501fa4a24604d326b3d52"
+
+[[files]]
+file = "config/fancymenu/panoramas/theseuspanorama/panorama/panorama_3.png"
+hash = "d209fce3e69ada85e703b0616837fcd12d14abd9461a8b91b99bc58518a71334"
+
+[[files]]
+file = "config/fancymenu/panoramas/theseuspanorama/panorama/panorama_4.png"
+hash = "0cd503e9dc3522b93d097481793bd3f1910c35a0b85c014e868ba0079ba6e958"
+
+[[files]]
+file = "config/fancymenu/panoramas/theseuspanorama/panorama/panorama_5.png"
+hash = "d5c91675596b06a3e43eeb700728f6f005c8a78ac82ea5245463345c358159e6"
+
+[[files]]
+file = "config/fancymenu/panoramas/theseuspanorama/properties.txt"
+hash = "4dad26795839cbb8a74681916537b2b24ab6d66461eafee1a91c0bc9c6d13621"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
 file = "fancymenu_data/last_world.fmdata"
 hash = "c438a78d61ec729deb7fa4ee41efd3a395eda03bcd0e0592a573013b92012931"
 
