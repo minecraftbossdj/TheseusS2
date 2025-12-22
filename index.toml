@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/alexscaves-client.toml"
+hash = "d5fa40c6b5a871b364019279108d199199a14a526efec71e1a89cc874d1569f2"
+
+[[files]]
 file = "fancymenu_data/last_world.fmdata"
 hash = "c438a78d61ec729deb7fa4ee41efd3a395eda03bcd0e0592a573013b92012931"
 
