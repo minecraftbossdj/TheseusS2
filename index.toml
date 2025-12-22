@@ -260,6 +260,11 @@ hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
 
 [[files]]
+file = "mods/custom-portal-api-reforged.pw.toml"
+hash = "82e4f8eed317be05c6f78d8409daa0a5217aa2dea85ba7ead96fe085b9cee8b6"
+metafile = true
+
+[[files]]
 file = "mods/delightful-slaughter.pw.toml"
 hash = "c777ee3840b17e604b71b2b5bb4a9dbf8dd8e31985ebfb031707f0cc9f98cb1d"
 metafile = true
