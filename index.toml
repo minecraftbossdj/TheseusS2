@@ -874,6 +874,10 @@ hash = "a15342a63bf18e434f474e8a420af783aceb24b70ca261d0513857668b8eca84"
 metafile = true
 
 [[files]]
+file = "mods/tconstruct_js-1.0.5.jar"
+hash = "4f9e1efef628c0cc532add0b9de53e558c7c683dc0e11c6ccb32f84f2abaaf61"
+
+[[files]]
 file = "mods/timeless-and-classics-guns-lesraisins-append-pack.pw.toml"
 hash = "5b3f49039b2a6a3ae952e611b5f10c0fea6793aa5d0abc730811f33a56a7eb2e"
 metafile = true
