@@ -290,6 +290,11 @@ hash = "afb67c69b9eb85609148c184f0be406bf2116b36796dd159c7f1c23d0811765d"
 metafile = true
 
 [[files]]
+file = "mods/create-estrogen.pw.toml"
+hash = "12eb225906d0765673672188489469155163bc9e289e8b442b04e2b5f5264370"
+metafile = true
+
+[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "40ac9690c8b569e974a1f3172ea9a517ca1459ad04ab7144a0be85280227c45e"
 metafile = true
@@ -358,6 +363,11 @@ hash = "b1ed05d521676bddd06e3db55d9c5895f63a40d8abf2d3c6dc26b681aa43c286"
 metafile = true
 
 [[files]]
+file = "mods/cynosure.pw.toml"
+hash = "e5d3b81a1081f11f442bda74f344c0bcdd7c4c0f3eb3768598659903f4856eb2"
+metafile = true
+
+[[files]]
 file = "mods/delightful-slaughter.pw.toml"
 hash = "c777ee3840b17e604b71b2b5bb4a9dbf8dd8e31985ebfb031707f0cc9f98cb1d"
 metafile = true
@@ -409,6 +419,11 @@ hash = "c0160d378f5f00da72e7235a62caa615a5274a2346541101311b24442366ab71"
 [[files]]
 file = "mods/essential-mod.pw.toml"
 hash = "80ea95568836a40a19316f8cbbcca1615d7a1eafb197bfd694537a865fc6e848"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "c006d771188a35a178b4831098e661ed2fdb9576fc2fce23544b874b5263f640"
 metafile = true
 
 [[files]]
@@ -537,7 +552,17 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "7e9ef26310359f482e595815664b3d08381b30c6517c32a58078b0999e1d953a"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
 metafile = true
 
 [[files]]
@@ -737,6 +762,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
 metafile = true
 
 [[files]]
