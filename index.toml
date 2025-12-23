@@ -236,6 +236,11 @@ hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
+file = "mods/cobblefordays.pw.toml"
+hash = "30f0c1dc08936db9002056ff41197e0fd9768e47c5b08d277bd5e547464c5118"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "ccc22ae710d22b2c8e8851c5968f85d32bac9f40ee7ded717df78cbe0cc8dae3"
 metafile = true
@@ -843,6 +848,11 @@ metafile = true
 [[files]]
 file = "mods/trackwork.pw.toml"
 hash = "f80a934bbd173a54edb17d99f72e25a12e5c08551d8c3130d132120a060a3fbd"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
 metafile = true
 
 [[files]]
