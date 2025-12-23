@@ -137,30 +137,6 @@ file = "kubejs/config/common.properties"
 hash = "7ea89d1bf334316b619919ab9f3f2de2a0bf86490b8502d7161b639137937d33"
 
 [[files]]
-file = "kubejs/server_scripts/balls.js"
-hash = "62e0d2c368357c41b5dd3cc72167942d377bd3a9f30123b8f7135aa6ff0943a9"
-
-[[files]]
-file = "kubejs/server_scripts/cannon.js"
-hash = "0cee79f2918dd179ea5e9cedcf3ff9e18700b4678c9f579d8e7e2707843d67a3"
-
-[[files]]
-file = "kubejs/server_scripts/cobble_gen_upgrade.js"
-hash = "8a349daed589d9dbf967f084fae6b5ca04cb95b4e7ad0fb47963961e3117e19d"
-
-[[files]]
-file = "kubejs/server_scripts/example.js"
-hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
-
-[[files]]
-file = "kubejs/server_scripts/minty.js"
-hash = "97380b71e518c2808abeb8add695b3eed4b9b2af70334cdaed2c2ba0b8480dde"
-
-[[files]]
-file = "kubejs/server_scripts/whatIfTheRealNetherlessWasTheFriendsWeMadeAlongTheWay.js"
-hash = "43f4c048341dc3423ab2a5dd6b62a2442bfec7f31f37009ff70ec8eaed88939c"
-
-[[files]]
 file = "kubejs/startup_scripts/OHHH IM NETHERLESSING IT part 2 because idk if i can put these in the same file i probably can ngl also are you fr reading ts.js"
 hash = "7652e8cb9e1cc5cbd75d63dfa16ea9b908866a30d526d2191b27d2b15b2d1cd2"
 
