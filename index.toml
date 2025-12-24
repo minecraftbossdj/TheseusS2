@@ -179,6 +179,11 @@ hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
 
 [[files]]
+file = "mods/alexs-caves-dimension.pw.toml"
+hash = "36a8f48eb975a5dff26373b7a222b254315959eaf0d579d1d531a632aa96bbdb"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "6f864eef65f9a38f57eb0cc6fc71469b36ea70444a10c3e27502d617c5eaf917"
 metafile = true
