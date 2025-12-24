@@ -222,6 +222,11 @@ hash = "c652306fdcbb41d5acb22b625217b0ab31e4d8e36d61411ba74008c829046d11"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
+metafile = true
+
+[[files]]
 file = "mods/casinocraft.pw.toml"
 hash = "c36681779db37e0a49a0747c167bfc7cb869b0c796c135252a2368019f7a0fc0"
 metafile = true
@@ -389,6 +394,11 @@ hash = "997619c2496ccfb0dd99cc8dca078678161feacd365ad38401e21f678b48278f"
 [[files]]
 file = "mods/create_interactive-1.1.1-beta.4_1.20.1-forge.jar"
 hash = "c626ce96b53691e912672498c16c1276fd062a5f2901faaf38a14117d5f9eb90"
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "8a5f33277995fccd2be6793c4fba1b5d657983be32f0b47e4afab4eac70b8ab8"
+metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
