@@ -133,8 +133,40 @@ file = "kubejs/assets/netherless/textures/item/netherite_fragment.png"
 hash = "a2bb180ad029a207e439d230c4333c0dade9507628f2859bbb1874303ee1ec2a"
 
 [[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
 file = "kubejs/config/common.properties"
 hash = "7ea89d1bf334316b619919ab9f3f2de2a0bf86490b8502d7161b639137937d33"
+
+[[files]]
+file = "kubejs/server_scripts/balls.js"
+hash = "62e0d2c368357c41b5dd3cc72167942d377bd3a9f30123b8f7135aa6ff0943a9"
+
+[[files]]
+file = "kubejs/server_scripts/cannon.js"
+hash = "0cee79f2918dd179ea5e9cedcf3ff9e18700b4678c9f579d8e7e2707843d67a3"
+
+[[files]]
+file = "kubejs/server_scripts/cobble_gen_upgrade.js"
+hash = "8a349daed589d9dbf967f084fae6b5ca04cb95b4e7ad0fb47963961e3117e19d"
+
+[[files]]
+file = "kubejs/server_scripts/craft_additions.js"
+hash = "9c46f390c92a4f1974d38ebf089596931c880694dbf84637a6f0f660e6698ef6"
+
+[[files]]
+file = "kubejs/server_scripts/example.js"
+hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
+
+[[files]]
+file = "kubejs/server_scripts/minty.js"
+hash = "97380b71e518c2808abeb8add695b3eed4b9b2af70334cdaed2c2ba0b8480dde"
+
+[[files]]
+file = "kubejs/server_scripts/whatIfTheRealNetherlessWasTheFriendsWeMadeAlongTheWay.js"
+hash = "2709a137ac4ff4b2058351bc26c538922645f062476c5b11bf19c27149efa343"
 
 [[files]]
 file = "kubejs/startup_scripts/OHHH IM NETHERLESSING IT part 2 because idk if i can put these in the same file i probably can ngl also are you fr reading ts.js"
