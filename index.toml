@@ -10,7 +10,7 @@ hash = "0197396211bc047b66ed77973ccb0f1420cfc95e4d6228f0a4abf79c2462cb2b"
 
 [[files]]
 file = "config/fancymenu/assets/splashtext.txt"
-hash = "01c4b28c85c0309d29744612de1d15264189eb56e4bd318ee63cde0d55c86103"
+hash = "6a9c9ff1fe9a0420b618751d0eb2563f80842894c45edc95a7c99dfebc5fe3b9"
 
 [[files]]
 file = "config/fancymenu/assets/turt16.png"
@@ -231,6 +231,11 @@ hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
+file = "mods/armor-statues.pw.toml"
+hash = "02ed506583870edb6332c76dfb4f87ae247e97b3e17653f65af1e84170ac380a"
+metafile = true
+
+[[files]]
 file = "mods/athena.pw.toml"
 hash = "9638d8a308563842fd989970919a51f37ed1bcc82372bff47fc5a5c2e6de738e"
 metafile = true
@@ -248,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/bits_n_bobs-0.0.18-1.20.1-preview.jar"
 hash = "6e4f4ad50b0d8be6c3f67b34516c92f041d97c9056fedab8e69c09076235c3b7"
+
+[[files]]
+file = "mods/booneforgeapi.pw.toml"
+hash = "87ed161d32f3c8e710c192410622f31fef76464c0fdba10c0466eb6cd26d1453"
+metafile = true
 
 [[files]]
 file = "mods/caelus-forge-3.1.0+1.20.jar"
@@ -294,6 +304,11 @@ hash = "aec3b36145a46bac7013ea39f4cd76c8187e82ccfc3a7e6671b845c4181795f4"
 [[files]]
 file = "mods/ccshenanigans-1.0.jar"
 hash = "49116a0fe294a4939a9f00b0c16c247110d1db2130b4f1281a5e3b5f4c898917"
+
+[[files]]
+file = "mods/chest-cavity-forge-port.pw.toml"
+hash = "713dba519dd685e6b5a72713f6d2be56ff7b0e0ea45b4cb4d92fc755d4ae53e9"
+metafile = true
 
 [[files]]
 file = "mods/chipped-express.pw.toml"
@@ -440,6 +455,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "1a0099366159fe4c62c19e82b512375eaa528574cf1a7d60fc7b2c96e8a83a51"
+metafile = true
+
+[[files]]
+file = "mods/cuffed.pw.toml"
+hash = "4f7805a694251284915d8ce2cc86c8d694c47963b2fec3b98b8d013b15acc19a"
 metafile = true
 
 [[files]]
@@ -678,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
+metafile = true
+
+[[files]]
+file = "mods/lazrs-lib.pw.toml"
+hash = "b49ab62c5b76e9110492fc101bae10a199b642fd270e04a07c835a7e8ad77ed4"
 metafile = true
 
 [[files]]
@@ -923,6 +948,11 @@ hash = "4652476ccb0fa861d3285321ac36b2dac825fe36a1f6b92ae020ce036e04df95"
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
+metafile = true
+
+[[files]]
+file = "mods/straw-statues.pw.toml"
+hash = "9a7fd0f91268419d3507dbe2603fdc4c9afe6560b837465bbb721245afabd920"
 metafile = true
 
 [[files]]
