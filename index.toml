@@ -193,6 +193,10 @@ file = "mods/Controlling-forge-1.20.1-12.0.2.jar"
 hash = "cff8c3426a77f9e7412262b6d79e423979eff3831e010b3b1ea9677e1ecd74cd"
 
 [[files]]
+file = "mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar"
+hash = "f3077a9f817629b8e8929c1951042d1a1adc62d30b72adebd54d2b074a4faf4f"
+
+[[files]]
 file = "mods/Searchables-forge-1.20.1-1.0.3.jar"
 hash = "461add180eb595004d3c9f5ac0ce337752e403077f96b38304800eadf01fb825"
 
@@ -887,11 +891,6 @@ metafile = true
 [[files]]
 file = "mods/project-1286315.pw.toml"
 hash = "92c872ed17da740512306f9e75df8054dc0dfb22ae6d786fd2d449ea8604cf0d"
-metafile = true
-
-[[files]]
-file = "mods/puzzles-lib.pw.toml"
-hash = "5ca42f4c23aee558ed76923d4fb92ecee736ebacb53790445c09d46bd9ccb27e"
 metafile = true
 
 [[files]]
