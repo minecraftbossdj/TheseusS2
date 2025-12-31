@@ -310,11 +310,6 @@ file = "mods/ccshenanigans-1.0.jar"
 hash = "49116a0fe294a4939a9f00b0c16c247110d1db2130b4f1281a5e3b5f4c898917"
 
 [[files]]
-file = "mods/chest-cavity-forge-port.pw.toml"
-hash = "713dba519dd685e6b5a72713f6d2be56ff7b0e0ea45b4cb4d92fc755d4ae53e9"
-metafile = true
-
-[[files]]
 file = "mods/chipped-express.pw.toml"
 hash = "6ff30a00e7ba98959c1112c28b497a8c5dc5f5b0869f9e696182377e55b59011"
 metafile = true
