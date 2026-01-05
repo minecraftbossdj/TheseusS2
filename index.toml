@@ -989,6 +989,11 @@ hash = "1db3c3af533564aa1355e6041419db817bff50ac697cada6d4ab11c8d24c69c2"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "edfafd11282b46cca84cce70807e85f8b11e918ead6a1ef7aa7d9e216d98ece3"
+metafile = true
+
+[[files]]
 file = "mods/trackwork.pw.toml"
 hash = "f80a934bbd173a54edb17d99f72e25a12e5c08551d8c3130d132120a060a3fbd"
 metafile = true
