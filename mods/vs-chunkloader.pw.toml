@@ -1,0 +1,13 @@
+name = "VS ChunkLoader"
+filename = "VSChunkLoader-forge-1.20.1-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "16f276b2dd136cf7b3cf38ca642efcc29c209602"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7250248
+project-id = 1318938

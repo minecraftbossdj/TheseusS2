@@ -1,0 +1,13 @@
+name = "Delightful Slaughter: A Farmer's Delight Addon"
+filename = "delightful_slaughter-0.3-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf0592b2303e825ed12214bf2d1dce8a41b8adfb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6389524
+project-id = 1107062

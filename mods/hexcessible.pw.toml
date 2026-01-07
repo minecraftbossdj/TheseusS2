@@ -1,0 +1,13 @@
+name = "Hexcessible"
+filename = "hexcessible-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "601050cbd7b292abf19543026d8df93e7d229596"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7248702
+project-id = 1377284

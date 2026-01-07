@@ -1,0 +1,13 @@
+name = "Theseus S2"
+author = "Explosivejoe, minecraftbossdj"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "31572da7bc23b515dc8d375be192ac704dd2b3fced89d41f983bf1fa08f56609"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

@@ -1,0 +1,13 @@
+name = "UnlimitedPeripheralWorks"
+filename = "peripheralworks-forge-1.20.1-1.7.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4fb7c6b12a107043976b88e1ffc480c78eec1bae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7293089
+project-id = 621851
