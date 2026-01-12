@@ -193,6 +193,10 @@ file = "mods/Controlling-forge-1.20.1-12.0.2.jar"
 hash = "cff8c3426a77f9e7412262b6d79e423979eff3831e010b3b1ea9677e1ecd74cd"
 
 [[files]]
+file = "mods/FramedBlocks-9.4.3.jar"
+hash = "58f4a8d8fb759a9db8754d83461df1b7b2e94426888259286d3acc316e6c6589"
+
+[[files]]
 file = "mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar"
 hash = "f3077a9f817629b8e8929c1951042d1a1adc62d30b72adebd54d2b074a4faf4f"
 
@@ -334,8 +338,8 @@ hash = "ebd201dbb16c75cf567bc8318ad53cfd7236a14aa1238d38e9799440331ac85e"
 metafile = true
 
 [[files]]
-file = "mods/clockwork-forge-0.5.3-[MELTING_POINT].jar"
-hash = "acf92a81d8d61a16ebaa0079936b9e80511c901506d8076444b09ac9140ace11"
+file = "mods/clockwork-0.5.4.4.jar"
+hash = "171e4e7e12cb09eee3e30624113d01abacc5c7ee12335a77f6006e2889856d75"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
@@ -593,6 +597,11 @@ metafile = true
 [[files]]
 file = "mods/fracture-point.pw.toml"
 hash = "c8524000b6927510542dceec5e3d89a57f94b0e8852a6cef8d8de35399db6e42"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "a06a97ba002c875926da3c83ef2027388c4e8a66e01b8bf1fd3d69be54bd6e64"
 metafile = true
 
 [[files]]
@@ -945,6 +954,11 @@ file = "mods/sophisticatedstorage-1.20.1-1.4.16.1370.jar"
 hash = "4652476ccb0fa861d3285321ac36b2dac825fe36a1f6b92ae020ce036e04df95"
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "ee2d9154be68ef20293596a3f65810111fd35a802f1e8292e9ba8872de463a14"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
@@ -1018,16 +1032,16 @@ hash = "a9cdf19ce9149b41798b2aa56e0544215905292afb317bc481f690730cb1cac2"
 metafile = true
 
 [[files]]
-file = "mods/valkyrienskies-120-2.4.5.jar"
-hash = "46fdd27ed7db78e708eb9381a25d0dfda7d892ac7db23dde816b509e04f97379"
+file = "mods/valkyrienskies-120-2.4.7.jar"
+hash = "13423e48c4569ef0a4862576f02db59b13c80a2beee063ce239ee6c84d7c6c68"
 
 [[files]]
 file = "mods/vlib-1.20.1-0.1.1+forge.jar"
 hash = "5a4a8ec43b827967cd64d7c0d6412a150e4ef50efc2f221891c4884ab04834fa"
 
 [[files]]
-file = "mods/vs_sails-1.20.1-0.2.5-forge.jar"
-hash = "695aa1ac53801d90e3f68db725e0018f376be1621f1e3b5dcff80ea61f8f9b7e"
+file = "mods/voicechat-forge-1.20.1-2.6.11.jar"
+hash = "bc18210b677978cb7d0fe38de7ee0ae77b67a1f328cfe2dde592a5d88178ea1f"
 
 [[files]]
 file = "mods/vstuff-0.2.4-fix2+015de0da8f.jar"
