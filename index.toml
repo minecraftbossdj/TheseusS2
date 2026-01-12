@@ -338,8 +338,8 @@ hash = "ebd201dbb16c75cf567bc8318ad53cfd7236a14aa1238d38e9799440331ac85e"
 metafile = true
 
 [[files]]
-file = "mods/clockwork-0.5.4.4.jar"
-hash = "171e4e7e12cb09eee3e30624113d01abacc5c7ee12335a77f6006e2889856d75"
+file = "mods/clockwork-0.5.4.5.jar"
+hash = "f661094941d109f121ed1b8174317716cd3ab9565c679a5fe862e4ed2c2c8570"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
