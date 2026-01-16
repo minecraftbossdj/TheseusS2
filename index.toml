@@ -1032,8 +1032,8 @@ hash = "a9cdf19ce9149b41798b2aa56e0544215905292afb317bc481f690730cb1cac2"
 metafile = true
 
 [[files]]
-file = "mods/valkyrienskies-120-2.4.8.1.jar"
-hash = "8b2a81eb75b52964396fc1382940155fe9672b04ec77039dd7d7d54c4ada5fd3"
+file = "mods/valkyrienskies-120-2.4.6.jar"
+hash = "6f94bf3d5676bfc49457bc258033f8612e4e78bd7b7e9ecdeacfa1ba271ff5d6"
 
 [[files]]
 file = "mods/vlib-1.20.1-0.1.1+forge.jar"
