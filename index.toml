@@ -1036,6 +1036,11 @@ file = "mods/valkyrienskies-120-2.4.6.jar"
 hash = "6f94bf3d5676bfc49457bc258033f8612e4e78bd7b7e9ecdeacfa1ba271ff5d6"
 
 [[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "16e1e328a1f3f7a86feb9bb6789a54f4c2a166ffab601c524f575caccb22f571"
+metafile = true
+
+[[files]]
 file = "mods/vlib-1.20.1-0.1.1+forge.jar"
 hash = "5a4a8ec43b827967cd64d7c0d6412a150e4ef50efc2f221891c4884ab04834fa"
 
