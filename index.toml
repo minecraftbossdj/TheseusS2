@@ -371,6 +371,11 @@ hash = "b82ff450c67ce4ccb0b6960fe020971553513a7e8a03a8b818d4dcf7d43792db"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons-advanced-technologies.pw.toml"
 hash = "2d2e70a21ec14cb19a86d71923a54881fd48d428c92df231f82afc2bca0d9b47"
 metafile = true
