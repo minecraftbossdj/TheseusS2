@@ -287,11 +287,6 @@ hash = "c36681779db37e0a49a0747c167bfc7cb869b0c796c135252a2368019f7a0fc0"
 metafile = true
 
 [[files]]
-file = "mods/cc-x.pw.toml"
-hash = "5d427b6ea2fe6468af49336525d7d67788ca97cdfc8120945e179c823f977115"
-metafile = true
-
-[[files]]
 file = "mods/cc_androids-forge-1.3.0.jar"
 hash = "186999254cb5fbd18eaa8fff910d88055f0b54fbe7c99d888b23be6af5c2fdaf"
 
@@ -311,6 +306,10 @@ hash = "aec3b36145a46bac7013ea39f4cd76c8187e82ccfc3a7e6671b845c4181795f4"
 [[files]]
 file = "mods/ccshenanigans-1.0.jar"
 hash = "49116a0fe294a4939a9f00b0c16c247110d1db2130b4f1281a5e3b5f4c898917"
+
+[[files]]
+file = "mods/ccx-forge-6.1.0.jar"
+hash = "2da537efb1929478dc37a78edc4ccf9c11ebf235456b10e870fbf970e79c85a8"
 
 [[files]]
 file = "mods/chipped-express.pw.toml"
