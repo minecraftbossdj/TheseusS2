@@ -193,6 +193,10 @@ file = "mods/Controlling-forge-1.20.1-12.0.2.jar"
 hash = "cff8c3426a77f9e7412262b6d79e423979eff3831e010b3b1ea9677e1ecd74cd"
 
 [[files]]
+file = "mods/NoChatRestrictions-Forge-MC1.20.1-v1.0.0(1).jar"
+hash = "98c335dc6850b4a0b1ddd7b8dea2712075333044aa60a84d787ee0d8babc360e"
+
+[[files]]
 file = "mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar"
 hash = "f3077a9f817629b8e8929c1951042d1a1adc62d30b72adebd54d2b074a4faf4f"
 
@@ -376,11 +380,6 @@ hash = "2d2e70a21ec14cb19a86d71923a54881fd48d428c92df231f82afc2bca0d9b47"
 metafile = true
 
 [[files]]
-file = "mods/create-big-cannons.pw.toml"
-hash = "3eff9f942e562bdeddd28b005de6830f53a4fe6a2f5a34e7c7762f10306f8a18"
-metafile = true
-
-[[files]]
 file = "mods/create-curios-jetpack.pw.toml"
 hash = "83624c4153ddca1ee7cf6ae924d8e1688c4b92d225557f83bc6734a2e480f460"
 metafile = true
@@ -421,11 +420,6 @@ hash = "e28e97f1f73f9a9f4552ac9014f23913a0d4f9b1f3be554b60ccac046408b5b0"
 metafile = true
 
 [[files]]
-file = "mods/create-radars.pw.toml"
-hash = "123f39fa64cda16f36cb6da7b547e49c482baf6a79f7b7f87b4004d21dd059b5"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "0971029a9e6cbc93c8fd694f97942c566979973f3d98023b730b1d436f617220"
 metafile = true
@@ -454,9 +448,17 @@ file = "mods/create_interactive-1.1.1-beta.4_1.20.1-forge(2).jar"
 hash = "d55f54cdb26bddae171038df4d4a68ad9d4408b871216e8443b3260dd6f571f4"
 
 [[files]]
+file = "mods/create_radar-0.4-EA-4.4.jar"
+hash = "cb62f11233202f59c91e4faa31c44ccdf73ad93b04ad17c8feabaa958d86274f"
+
+[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "8a5f33277995fccd2be6793c4fba1b5d657983be32f0b47e4afab4eac70b8ab8"
 metafile = true
+
+[[files]]
+file = "mods/createbigcannons-5.10.2-mc.1.20.1-forge.jar"
+hash = "7173b3c9e8d1e2d1a6b7ed8a2784c9e1604232e8f03d0768a8aee4be52490609"
 
 [[files]]
 file = "mods/createpropulsion-0.3.0(1).jar"
@@ -1046,6 +1048,10 @@ hash = "5a4a8ec43b827967cd64d7c0d6412a150e4ef50efc2f221891c4884ab04834fa"
 [[files]]
 file = "mods/voicechat-forge-1.20.1-2.6.11.jar"
 hash = "bc18210b677978cb7d0fe38de7ee0ae77b67a1f328cfe2dde592a5d88178ea1f"
+
+[[files]]
+file = "mods/vsHoseConnectors-0.0.9-1.20.1.jar"
+hash = "1fe3037b3e01917986a4f63d4bf31ef7c04eaa53fe27c1be842a54d4cdabe624"
 
 [[files]]
 file = "mods/vstuff-0.2.5-fix1+274ab248dc.jar"
