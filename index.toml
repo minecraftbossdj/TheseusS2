@@ -883,6 +883,10 @@ hash = "93e79f423eafdfeb26a0ce9907f4a7dc63b8fdbb2a8702393b24ceec50954d6d"
 metafile = true
 
 [[files]]
+file = "mods/pneumaticcraft-repressurized-6.0.22+mc1.20.1.jar"
+hash = "d33c6d8ca709ba9b5b238b8919a06c2b2dc3903535f452aac965a15d01713d43"
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8c65958007f81cdf1a57dac999ec7ffdde17cce6154c9a2f75bbb389fd11efbf"
 metafile = true
@@ -990,6 +994,10 @@ metafile = true
 [[files]]
 file = "mods/tconstruct_js-1.0.5.jar"
 hash = "4f9e1efef628c0cc532add0b9de53e558c7c683dc0e11c6ccb32f84f2abaaf61"
+
+[[files]]
+file = "mods/the_silly-1.0.0.jar"
+hash = "e62c3ad2589a2fd8b3f002472d70ea1862eb5a3c9faea16ea27e3a1a1a339e8e"
 
 [[files]]
 file = "mods/timeless-and-classics-guns-lesraisins-append-pack.pw.toml"
