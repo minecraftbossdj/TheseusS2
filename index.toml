@@ -415,11 +415,6 @@ hash = "40ac9690c8b569e974a1f3172ea9a517ca1459ad04ab7144a0be85280227c45e"
 metafile = true
 
 [[files]]
-file = "mods/create-propulsion.pw.toml"
-hash = "e28e97f1f73f9a9f4552ac9014f23913a0d4f9b1f3be554b60ccac046408b5b0"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "0971029a9e6cbc93c8fd694f97942c566979973f3d98023b730b1d436f617220"
 metafile = true
@@ -448,6 +443,10 @@ file = "mods/create_interactive-1.1.1-beta.4_1.20.1-forge(2).jar"
 hash = "d55f54cdb26bddae171038df4d4a68ad9d4408b871216e8443b3260dd6f571f4"
 
 [[files]]
+file = "mods/create_mixed_casing-1.20.1-1.1.0.jar"
+hash = "54b608812f2892af1004eb172da684cf9e8362c1af4d58e270dd26e8989a9a13"
+
+[[files]]
 file = "mods/create_radar-0.4-EA-4.4.jar"
 hash = "cb62f11233202f59c91e4faa31c44ccdf73ad93b04ad17c8feabaa958d86274f"
 
@@ -461,13 +460,17 @@ file = "mods/createbigcannons-5.10.2-mc.1.20.1-forge.jar"
 hash = "7173b3c9e8d1e2d1a6b7ed8a2784c9e1604232e8f03d0768a8aee4be52490609"
 
 [[files]]
-file = "mods/createpropulsion-0.3.0(1).jar"
-hash = "6e697ec686048f41230bdd4ff318214eb52cedac5ca3e3fd24b1402ccc147398"
+file = "mods/createpropulsion-0.3.0.jar"
+hash = "608f10fe87444354abf74bd9279388e01dcb2f0f2c49b764be22865da8d56835"
 
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "1a0099366159fe4c62c19e82b512375eaa528574cf1a7d60fc7b2c96e8a83a51"
 metafile = true
+
+[[files]]
+file = "mods/ctaw-3.0.5.jar"
+hash = "b74991789665105f5a74825d031bc3d69108a2f4d6c876f3b6b1a20416683b12"
 
 [[files]]
 file = "mods/cuffed.pw.toml"
@@ -561,6 +564,10 @@ metafile = true
 file = "mods/estrogen.pw.toml"
 hash = "c006d771188a35a178b4831098e661ed2fdb9576fc2fce23544b874b5263f640"
 metafile = true
+
+[[files]]
+file = "mods/etched-3.0.2.jar"
+hash = "2bf4079aeddfcc73da9ee5c4856412f66f7d389d2395eae5f95b68acfeda6520"
 
 [[files]]
 file = "mods/eureka-forge-1201-1.6.0-beta.1+59032efd49(2).jar"
