@@ -443,10 +443,6 @@ file = "mods/create_interactive-1.1.1-beta.4_1.20.1-forge(2).jar"
 hash = "d55f54cdb26bddae171038df4d4a68ad9d4408b871216e8443b3260dd6f571f4"
 
 [[files]]
-file = "mods/create_mixed_casing-1.20.1-1.1.0.jar"
-hash = "54b608812f2892af1004eb172da684cf9e8362c1af4d58e270dd26e8989a9a13"
-
-[[files]]
 file = "mods/create_radar-0.4-EA-4.4.jar"
 hash = "cb62f11233202f59c91e4faa31c44ccdf73ad93b04ad17c8feabaa958d86274f"
 
