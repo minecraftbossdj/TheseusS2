@@ -456,10 +456,6 @@ file = "mods/createbigcannons-5.10.2-mc.1.20.1-forge.jar"
 hash = "7173b3c9e8d1e2d1a6b7ed8a2784c9e1604232e8f03d0768a8aee4be52490609"
 
 [[files]]
-file = "mods/createpropulsion-0.3.0(4).jar"
-hash = "6e697ec686048f41230bdd4ff318214eb52cedac5ca3e3fd24b1402ccc147398"
-
-[[files]]
 file = "mods/createpropulsion-0.3.1.jar"
 hash = "3474c7e186a95b2acba562a08824aafcb98f1dcc5d6381061f0387c808fe27aa"
 
