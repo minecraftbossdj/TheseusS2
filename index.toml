@@ -460,6 +460,14 @@ file = "mods/createpropulsion-0.3.0(4).jar"
 hash = "6e697ec686048f41230bdd4ff318214eb52cedac5ca3e3fd24b1402ccc147398"
 
 [[files]]
+file = "mods/createpropulsion-0.3.1.jar"
+hash = "3474c7e186a95b2acba562a08824aafcb98f1dcc5d6381061f0387c808fe27aa"
+
+[[files]]
+file = "mods/createultimine-1.20.1-forge-1.3.0.jar"
+hash = "d377128eff666eda5d1175eec5fcecfbf8057edcc795e73234d0fd9085abc723"
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "1a0099366159fe4c62c19e82b512375eaa528574cf1a7d60fc7b2c96e8a83a51"
 metafile = true
@@ -895,6 +903,10 @@ metafile = true
 file = "mods/power-grid.pw.toml"
 hash = "d394a681f95c291eacf0b0880768dca25912a258facc9f9c7ff7c6420f0bba71"
 metafile = true
+
+[[files]]
+file = "mods/powergrid-mc1.20.1-0.5.0-beta.jar"
+hash = "a4accd2d42f34d61aba9477a421f64b6c98475cd7c2f2b1550852af61c00e46d"
 
 [[files]]
 file = "mods/prma-1.20.1-0.4.4-cr6.0-SIMPLE-beta-all.jar"
