@@ -375,6 +375,11 @@ hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
+file = "mods/crackers-wither-storm-mod.pw.toml"
+hash = "6752a3970c0dfef9abdd6fdd389a23f2df88332356a6e8568b99ab9c68485d66"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons-advanced-technologies.pw.toml"
 hash = "2d2e70a21ec14cb19a86d71923a54881fd48d428c92df231f82afc2bca0d9b47"
 metafile = true
